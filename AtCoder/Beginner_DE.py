@@ -7,12 +7,12 @@ file.write(
 
 # Song Yuqi
 file.write(
-    "\n\n![Alt Text](https://i.pinimg.com/originals/a2/8a/86/a28a86719db56001f029541ea53e2d27.gif)\n\n"
+    "\n\n![Alt Text](https://64.media.tumblr.com/e68b0924d47bd82cdb2b6a6e4ab97f32/158ce015e1717a45-c3/s540x810/64cd26694a62ef00bd88996c72916b28b574a350.gif) ![Alt Text](https://64.media.tumblr.com/c76710cbb9aa9056d1d0d294796eee95/158ce015e1717a45-47/s540x810/8a7ba85da1d78c17ca5acca97376c3760965a90c.gif)\n\n"
 )
 
 # from 126 to 341 (inclusive) (Feb 19th, 2024)
 begin = 126
-lastest = 341
+lastest = 342
 accumulated_count = 0
 
 for i in range(lastest, begin - 1, -1):
