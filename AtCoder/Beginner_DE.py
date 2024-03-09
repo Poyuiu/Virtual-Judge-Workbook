@@ -12,10 +12,12 @@ file.write(
 
 # from 126 to 341 (inclusive) (Feb 19th, 2024)
 begin = 126
-lastest = 343
+lastest = 344
 accumulated_count = 0
 
 for i in range(lastest, begin - 1, -1):
+    if i == 316:
+        continue
     if i % 10 == 0 or i == lastest:
         file.write(f"#### Round {i} ⬇️\n")
     file.write(f"[problem:AtCoder-abc{i}_d]\n")

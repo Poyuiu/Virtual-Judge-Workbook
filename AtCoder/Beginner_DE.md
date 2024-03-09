@@ -3,7 +3,9 @@ According to a [tutorial](https://codeforces.com/blog/entry/66909) from Codeforc
 
  ![Alt Text](https://i.imgur.com/ONhGlfv.gif)   ![Alt Text](https://i.imgur.com/HD97WKF.gif)  ![Alt Text](https://i.imgur.com/WLwgAx6.gif)
 
-#### Round 343 ⬇️
+#### Round 344 ⬇️
+[problem:AtCoder-abc344_d]
+[problem:AtCoder-abc344_e]
 [problem:AtCoder-abc343_d]
 [problem:AtCoder-abc343_e]
 [problem:AtCoder-abc342_d]
@@ -12,9 +14,9 @@ According to a [tutorial](https://codeforces.com/blog/entry/66909) from Codeforc
 [problem:AtCoder-abc341_e]
 #### Round 340 ⬇️
 [problem:AtCoder-abc340_d]
-[problem:AtCoder-abc340_e]
+[problem:AtCoder-abc340_e]10
 [problem:AtCoder-abc339_d]
-[problem:AtCoder-abc339_e]10
+[problem:AtCoder-abc339_e]
 [problem:AtCoder-abc338_d]
 [problem:AtCoder-abc338_e]
 [problem:AtCoder-abc337_d]
@@ -22,9 +24,9 @@ According to a [tutorial](https://codeforces.com/blog/entry/66909) from Codeforc
 [problem:AtCoder-abc336_d]
 [problem:AtCoder-abc336_e]
 [problem:AtCoder-abc335_d]
-[problem:AtCoder-abc335_e]
+[problem:AtCoder-abc335_e]20
 [problem:AtCoder-abc334_d]
-[problem:AtCoder-abc334_e]20
+[problem:AtCoder-abc334_e]
 [problem:AtCoder-abc333_d]
 [problem:AtCoder-abc333_e]
 [problem:AtCoder-abc332_d]
@@ -33,9 +35,9 @@ According to a [tutorial](https://codeforces.com/blog/entry/66909) from Codeforc
 [problem:AtCoder-abc331_e]
 #### Round 330 ⬇️
 [problem:AtCoder-abc330_d]
-[problem:AtCoder-abc330_e]
+[problem:AtCoder-abc330_e]30
 [problem:AtCoder-abc329_d]
-[problem:AtCoder-abc329_e]30
+[problem:AtCoder-abc329_e]
 [problem:AtCoder-abc328_d]
 [problem:AtCoder-abc328_e]
 [problem:AtCoder-abc327_d]
@@ -43,9 +45,9 @@ According to a [tutorial](https://codeforces.com/blog/entry/66909) from Codeforc
 [problem:AtCoder-abc326_d]
 [problem:AtCoder-abc326_e]
 [problem:AtCoder-abc325_d]
-[problem:AtCoder-abc325_e]
+[problem:AtCoder-abc325_e]40
 [problem:AtCoder-abc324_d]
-[problem:AtCoder-abc324_e]40
+[problem:AtCoder-abc324_e]
 [problem:AtCoder-abc323_d]
 [problem:AtCoder-abc323_e]
 [problem:AtCoder-abc322_d]
@@ -54,15 +56,13 @@ According to a [tutorial](https://codeforces.com/blog/entry/66909) from Codeforc
 [problem:AtCoder-abc321_e]
 #### Round 320 ⬇️
 [problem:AtCoder-abc320_d]
-[problem:AtCoder-abc320_e]
+[problem:AtCoder-abc320_e]50
 [problem:AtCoder-abc319_d]
-[problem:AtCoder-abc319_e]50
+[problem:AtCoder-abc319_e]
 [problem:AtCoder-abc318_d]
 [problem:AtCoder-abc318_e]
 [problem:AtCoder-abc317_d]
 [problem:AtCoder-abc317_e]
-[problem:AtCoder-abc316_d]
-[problem:AtCoder-abc316_e]
 [problem:AtCoder-abc315_d]
 [problem:AtCoder-abc315_e]
 [problem:AtCoder-abc314_d]
