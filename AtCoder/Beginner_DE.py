@@ -12,7 +12,7 @@ file.write(
 
 # from 126 to 348 (inclusive) (Apr 9th, 2024)
 begin = 126
-lastest = 348
+lastest = 350
 
 accumulated_count = 0
 
