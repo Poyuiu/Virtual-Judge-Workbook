@@ -34,9 +34,8 @@ def main():
             r"API: https://kenkoooo.com/atcoder/resources/problem-models.json" + "\n\n"
         )
 
-        file.write("不知道有什麼方法可以篩掉日文題(可CC解惑)\n\n")
 
-        file.write("#### 目錄\n")
+        file.write("### 目錄\n")
         file.write("* [<1000](#<1000)\n")
         for i in range(1000, 3200, 200):
             file.write(f"* [{i}](#{i})\n")
@@ -50,14 +49,14 @@ def main():
                 file.write("[problem:AtCoder-" + problems[idx][0] + "]\n")
                 idx += 1
 
-        file.write(f"\n#### < 1000\n")
+        file.write(f"\n### < 1000\n")
         write_problems(1000)
 
         for difficulty in range(1000, 3200, 200):
-            file.write(f"\n#### {difficulty}\n")
+            file.write(f"\n### {difficulty}\n")
             write_problems(difficulty + 200)
 
-        file.write("\n#### 3200\n")
+        file.write("\n### 3200\n")
         while idx < len(problems):
             file.write("[problem:AtCoder-" + problems[idx][0] + "]\n")
             idx += 1
