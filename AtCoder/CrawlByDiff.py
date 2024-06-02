@@ -35,7 +35,11 @@ def main():
         )
 
         file.write(
-            r"![Alt Text](https://github.com/pyjuan91/Virtual-Judge-Workbook/blob/main/assets/AtCoderColor.png)" + "\n\n"
+            "\n\n" + r"### 難度＆顏色對照表" + "\n\n"
+        )
+
+        file.write(
+            "\n\n" + r"![Alt Text](https://github.com/pyjuan91/Virtual-Judge-Workbook/blob/main/assets/AtCoderColor.png)" + "\n\n"
         )
 
 

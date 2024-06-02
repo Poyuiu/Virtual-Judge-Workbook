@@ -1,5 +1,11 @@
 API: https://kenkoooo.com/atcoder/resources/problem-models.json
 
+
+
+### 難度＆顏色對照表
+
+
+
 ![Alt Text](https://github.com/pyjuan91/Virtual-Judge-Workbook/blob/main/assets/AtCoderColor.png)
 
 ### 目錄
