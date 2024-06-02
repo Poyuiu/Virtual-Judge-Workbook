@@ -6,7 +6,7 @@ API: https://kenkoooo.com/atcoder/resources/problem-models.json
 
 
 
-![Alt Text](https://i.imgur.com/vgjYKys.png)
+![Alt Text](https://i.imgur.com/SnZB2Wx.png)
 
 ### 目錄
 * [<1000](#<1000)
