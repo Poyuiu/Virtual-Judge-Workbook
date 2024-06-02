@@ -34,6 +34,10 @@ def main():
             r"API: https://kenkoooo.com/atcoder/resources/problem-models.json" + "\n\n"
         )
 
+        file.write(
+            r"![Alt Text](https://github.com/pyjuan91/Virtual-Judge-Workbook/blob/main/assets/AtCoderColor.png)" + "\n\n"
+        )
+
 
         file.write("### 目錄\n")
         file.write("* [<1000](#<1000)\n")
