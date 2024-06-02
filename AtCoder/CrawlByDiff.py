@@ -39,7 +39,7 @@ def main():
         )
 
         file.write(
-            "\n\n" + r"![Alt Text](https://github.com/pyjuan91/Virtual-Judge-Workbook/blob/main/assets/AtCoderColor.png)" + "\n\n"
+            "\n\n" + r"![Alt Text](https://i.imgur.com/vgjYKys.png)" + "\n\n"
         )
 
 
